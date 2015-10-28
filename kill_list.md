@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 assassins creed
 =======
 Unused code
@@ -6,4 +5,4 @@ Unused code
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
->>>>>>> release_branch_1.0
+* programmer grievance
